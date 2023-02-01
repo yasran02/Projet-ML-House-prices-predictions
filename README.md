@@ -4,7 +4,7 @@ Le repertoire ML-House-prices-predictions comprend trois dossiers:
 
 -Notebooks: contenant un notebook d'analyse exploratoire et trois notebooks d'algorithmes de Machine Learning
 -data: contenant le dataset utilisé pour la mise en place des différents algorithmes de Machine Learning
--Powerpoint: contenant l'exposé powerpoint du projet
+-Powerpoint: contenant l'exposé powerpoint du projet 
 -App: contenant des informations sur l'application utilisé pour la prédiction des maisons(déployement du meilleur algorithme)
 
 Le dossier Notebooks contient les notebooks suivant:
